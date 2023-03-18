@@ -1,0 +1,41 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:cyan;
+}
+div{
+    padding: 4px;
+    margin: 2px;
+    border-radius: 4px;
+}
+.bodyPanel {
+    background-color: white;
+    width: 90%;
+    padding: 8px;
+}
+.navPanel {
+    left: 0;
+    background-color: darkcyan;
+    text-align: center;
+    padding: 2px;
+    border-radius: 4px;
+}
+.navPanel div{
+    color:aliceblue;
+    background-color: lightblue;
+    text-align: center;
+    margin: 4px;
+    border-radius: 2px;
+    border-width: 2px;
+    border-color: lightblue;
+    border-style: double;
+}
+.navPanel a{
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+}
+.navPanel div:hover{
+    color:lightblue;
+    background-color: aliceblue;
+}
