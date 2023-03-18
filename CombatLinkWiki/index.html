@@ -17,7 +17,7 @@
                 <a href="https://github.com/snipeslow/Combat-Link"><div>CombatLink Github</div></a>
                 <a href="index.html"><div>About</div></a>
             </div>
-            <div class="bodyPanel">
+            <div class="bodyPanel" id="pagecontents">
                 <script>
                     const params = new URLSearchParams(document.location.search);
                     const page = params.get("page");
@@ -25,10 +25,10 @@
                     xhttp.onreadystatechange = function() {
                         if (this.readyState == 4) {
                             if (this.status == 200) {
-                                document.write(this.responseText)
+                                document.getElementById("pagecontents").innerHTML = this.responseText;
                             }
                             if (this.status == 404) {
-                                document.write("Page not found.")
+                                document.getElementById("pagecontents").innerHTML = "Page not found.";
                             }
                         }
                     }
