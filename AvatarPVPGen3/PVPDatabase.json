@@ -1,5 +1,5 @@
 {
-  "version": "0.1.3",
+  "version": "0.1.4",
   "Classes": {
     "Default": {
       "Assault": {
@@ -10,6 +10,17 @@
       },
       "Assassin": {
         "DisplayName": "Assassin"
+      }
+    },
+    "Crab": {
+      "Crab": {
+        "DisplayName": "Crab"
+      },
+      "CrabMore": {
+        "DisplayName": "Crab More"
+      },
+      "CrabEvenMore": {
+        "DisplayName": "CRABEVEN MORE"
       }
     }
   }
