@@ -1,26 +1,81 @@
 {
-  "version": "0.1.4",
+  "version": "0.1.5",
   "Classes": {
     "Default": {
       "Assault": {
-        "DisplayName": "Assault"
+        "DisplayName": "Assault",
+        "ChestDMG": "200",
+        "ChestDMGShieldRatio": "0.5",
+        "HeadDMG": "1900",
+        "HeadDMGShieldRatio": "0.75",
+        "DOTDMG": "200",
+        "DOTEffectRatio": "0.8",
+        "HOTAmount": "250",
+        "ElectricDMG": "80",
+        "FireDMG": "280",
+        "PoisonDMG": "16",
+        "IceDMG": "80",
+        "IceEffectRatio": "0.4",
+        "StunEffectRatio": "0.1",
+        "SlowEffectRatio": "0.6",
+        "SpeedEffectRatio": "1.8",
+        "RepairAmount": "0",
+        "JumpSpeed": "5",
+        "DoubleJumpSpeed": "0",
+        "DashSpeed": "0",
+        "RunSpeed": "5",
+        "WalkSpeed": "3",
+        "StrafeSpeed": "3"
       },
       "Tank": {
-        "DisplayName": "Tank"
+        "DisplayName": "Tank",
+        "ChestDMG": "80",
+        "ChestDMGShieldRatio": "0.5",
+        "HeadDMG": "100",
+        "HeadDMGShieldRatio": "0.5",
+        "DOTDMG": "160",
+        "DOTEffectRatio": "0.8",
+        "HOTAmount": "180",
+        "ElectricDMG": "10",
+        "FireDMG": "160",
+        "PoisonDMG": "13",
+        "IceDMG": "50",
+        "IceEffectRatio": "0.4",
+        "StunEffectRatio": "0.1",
+        "SlowEffectRatio": "0.6",
+        "SpeedEffectRatio": "1.8",
+        "RepairAmount": "0",
+        "JumpSpeed": "4",
+        "DoubleJumpSpeed": "0",
+        "DashSpeed": "0",
+        "RunSpeed": "4",
+        "WalkSpeed": "3",
+        "StrafeSpeed": "3"
       },
       "Assassin": {
-        "DisplayName": "Assassin"
-      }
-    },
-    "Crab": {
-      "Crab": {
-        "DisplayName": "Crab"
-      },
-      "CrabMore": {
-        "DisplayName": "Crab More"
-      },
-      "CrabEvenMore": {
-        "DisplayName": "CRABEVEN MORE"
+        "DisplayName": "Assassin",
+        "ChestDMG": "500",
+        "ChestDMGShieldRatio": "0.5",
+        "HeadDMG": "2000",
+        "HeadDMGShieldRatio": "0.75",
+        "DOTDMG": "200",
+        "DOTEffectRatio": "0.8",
+        "HOTAmount": "250",
+        "ElectricDMG": "100",
+        "FireDMG": "300",
+        "PoisonDMG": "25",
+        "IceDMG": "80",
+        "IceEffectRatio": "0.4",
+        "StunEffectRatio": "0.1",
+        "SlowEffectRatio": "0.6",
+        "SpeedEffectRatio": "2",
+        "RepairAmount": "0",
+        "JumpSpeed": "8",
+        "DoubleJumpSpeed": "0",
+        "DashSpeed": "0",
+        "RunSpeed": "8",
+        "WalkSpeed": "6",
+        "StrafeSpeed": "6"
       }
     }
   }
