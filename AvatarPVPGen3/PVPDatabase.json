@@ -1,15 +1,15 @@
 {
-  "version": "0.1.2",
+  "version": "0.1.3",
   "Classes": {
     "Default": {
       "Assault": {
-        "DisplayName": "\"Assault\""
+        "DisplayName": "Assault"
       },
       "Tank": {
-        "DisplayName": "\"Tank\""
+        "DisplayName": "Tank"
       },
       "Assassin": {
-        "DisplayName": "\"Assassin\""
+        "DisplayName": "Assassin"
       }
     }
   }
