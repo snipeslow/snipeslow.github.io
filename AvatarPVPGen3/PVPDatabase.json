@@ -1,0 +1,10 @@
+{
+  "version": "0.1.1",
+  "Classes": {
+    "Default": {
+      "Assault": {},
+      "Tank": {},
+      "Assassin": {}
+    }
+  }
+}
