@@ -1,5 +1,16 @@
 {
-  "version": "0.1.6",
+  "version": "0.1.7",
+  "ClassSets": {
+    "Default": {
+      "DisplayName": "Default"
+    },
+    "Crab": {
+      "DisplayName": "Crab"
+    },
+    "HuntersGuild": {
+      "DisplayName": "Hunter's Guild"
+    }
+  },
   "Classes": {
     "Default": {
       "Assault": {
