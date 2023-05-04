@@ -1,5 +1,5 @@
 {
-  "version": "0.1.8",
+  "version": "0.1.9",
   "ClassSets": {
     "Default": {
       "DisplayName": "Default"
@@ -31,6 +31,8 @@
         "SlowEffectRatio": 0.6,
         "SpeedEffectRatio": 1.8,
         "RepairAmount": -70,
+        "RadRate": 2,
+        "PushPower": 16,
         "JumpSpeed": 5,
         "DoubleJumpSpeed": 0,
         "DashSpeed": 0,
@@ -56,6 +58,8 @@
         "SlowEffectRatio": 0.6,
         "SpeedEffectRatio": 1.8,
         "RepairAmount": -28,
+        "RadRate": 1.25,
+        "PushPower": 8,
         "JumpSpeed": 4,
         "DoubleJumpSpeed": 0,
         "DashSpeed": 8,
@@ -81,6 +85,8 @@
         "SlowEffectRatio": 0.6,
         "SpeedEffectRatio": 2,
         "RepairAmount": -175,
+        "RadRate": 2.5,
+        "PushPower": 32,
         "JumpSpeed": 8,
         "DoubleJumpSpeed": 4,
         "DashSpeed": 3,
@@ -108,6 +114,7 @@
         "SlowEffectRatio": 0.6,
         "SpeedEffectRatio": 1.8,
         "RepairAmount": 0,
+        "PushPower": 16,
         "JumpSpeed": 5,
         "DoubleJumpSpeed": 0,
         "DashSpeed": 0,
@@ -133,6 +140,7 @@
         "SlowEffectRatio": 0.6,
         "SpeedEffectRatio": 1.8,
         "RepairAmount": 0,
+        "PushPower": 8,
         "JumpSpeed": 4,
         "DoubleJumpSpeed": 0,
         "DashSpeed": 0,
@@ -158,6 +166,7 @@
         "SlowEffectRatio": 0.6,
         "SpeedEffectRatio": 2,
         "RepairAmount": 0,
+        "PushPower": 32,
         "JumpSpeed": 8,
         "DoubleJumpSpeed": 0,
         "DashSpeed": 0,
