@@ -1,5 +1,5 @@
 {
-  "version": "0.1.9",
+  "version": "0.1.10",
   "ClassSets": {
     "Default": {
       "DisplayName": "Default"
@@ -113,7 +113,8 @@
         "StunEffectRatio": 0.1,
         "SlowEffectRatio": 0.6,
         "SpeedEffectRatio": 1.8,
-        "RepairAmount": 0,
+        "RepairAmount": -70,
+        "RadRate": 2,
         "PushPower": 16,
         "JumpSpeed": 5,
         "DoubleJumpSpeed": 0,
@@ -139,7 +140,8 @@
         "StunEffectRatio": 0.1,
         "SlowEffectRatio": 0.6,
         "SpeedEffectRatio": 1.8,
-        "RepairAmount": 0,
+        "RepairAmount": -28,
+        "RadRate": 1.25,
         "PushPower": 8,
         "JumpSpeed": 4,
         "DoubleJumpSpeed": 0,
@@ -165,7 +167,8 @@
         "StunEffectRatio": 0.1,
         "SlowEffectRatio": 0.6,
         "SpeedEffectRatio": 2,
-        "RepairAmount": 0,
+        "RepairAmount": -175,
+        "RadRate": 2.5,
         "PushPower": 32,
         "JumpSpeed": 8,
         "DoubleJumpSpeed": 0,
