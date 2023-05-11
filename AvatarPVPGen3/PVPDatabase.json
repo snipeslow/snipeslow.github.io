@@ -12,6 +12,9 @@
     },
     "CrabsVsRoombas": {
       "DisplayName": "Crabs Vs Roombas"
+    },
+    "BountyHunt": {
+      "DisplayName": "Capture the GoFluffYaself"
     }
   },
   "Classes": {
