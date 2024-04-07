@@ -1,5 +1,5 @@
 {
-  "version": "0.1.13",
+  "version": "0.2.13",
   "ClassSets": {
     "Default": {
       "DisplayName": "Default"
@@ -41,7 +41,11 @@
         "DashSpeed": 0,
         "RunSpeed": 5,
         "WalkSpeed": 3,
-        "StrafeSpeed": 3
+        "StrafeSpeed": 3,
+        "Tags": {
+          "Default",
+          "Assault"
+        }
       },
       "Tank": {
         "DisplayName": "Tank",
@@ -68,7 +72,11 @@
         "DashSpeed": 8,
         "RunSpeed": 4,
         "WalkSpeed": 3,
-        "StrafeSpeed": 3
+        "StrafeSpeed": 3,
+        "Tags": {
+          "Default",
+          "Tank"
+        }
       },
       "Assassin": {
         "DisplayName": "Assassin",
@@ -95,7 +103,11 @@
         "DashSpeed": 3,
         "RunSpeed": 8,
         "WalkSpeed": 6,
-        "StrafeSpeed": 6
+        "StrafeSpeed": 6,
+        "Tags": {
+          "Default",
+          "Assassin"
+        }
       }
     },
     "UHMC": {
@@ -124,7 +136,11 @@
         "DashSpeed": 0,
         "RunSpeed": 5,
         "WalkSpeed": 3,
-        "StrafeSpeed": 3
+        "StrafeSpeed": 3,
+        "Tags": {
+          "UHMC",
+          "Assault"
+        }
       },
       "HeavyInfantry": {
         "DisplayName": "Heavy Infantry",
@@ -151,7 +167,11 @@
         "DashSpeed": 8,
         "RunSpeed": 4,
         "WalkSpeed": 3,
-        "StrafeSpeed": 3
+        "StrafeSpeed": 3,
+        "Tags": {
+          "UHMC",
+          "Tank"
+        }
       },
       "LightInfantry": {
         "DisplayName": "Light Infantry",
@@ -178,7 +198,11 @@
         "DashSpeed": 3,
         "RunSpeed": 8,
         "WalkSpeed": 6,
-        "StrafeSpeed": 6
+        "StrafeSpeed": 6,
+        "Tags": {
+          "UHMC",
+          "Assassin"
+        }
       },
       "Hero": {
         "DisplayName": "Hero",
@@ -204,8 +228,12 @@
         "DoubleJumpSpeed": 0,
         "DashSpeed": 0,
         "RunSpeed": 5,
-        "WalkSpeed": 3,
-        "StrafeSpeed": 3
+        "WalkSpeed": 3,ero
+        "StrafeSpeed": 3,
+        "Tags": {
+          "UHMC",
+          "Hero"
+        }
       }
     },
     "CrabsVsRoombas": {
@@ -234,7 +262,12 @@
         "DashSpeed": 0,
         "RunSpeed": 5,
         "WalkSpeed": 3,
-        "StrafeSpeed": 0.3
+        "StrafeSpeed": 0.3,
+        "Tags": {
+          "CVSR",
+          "Assault",
+          "Roomba"
+        }
       },
       "TankRoomba": {
         "DisplayName": "Tank Roomba",
@@ -261,9 +294,14 @@
         "DashSpeed": 0,
         "RunSpeed": 4,
         "WalkSpeed": 3,
-        "StrafeSpeed": 0.3
+        "StrafeSpeed": 0.3,
+        "Tags": {
+          "CVSR",
+          "Tank",
+          "Roomba"
+        }
       },
-      "AssassinRooma": {
+      "AssassinRoomba": {
         "DisplayName": "Assassin Roomba",
         "ChestDMG": 500,
         "ChestDMGShieldRatio": 0.5,
@@ -288,7 +326,12 @@
         "DashSpeed": 0,
         "RunSpeed": 8,
         "WalkSpeed": 6,
-        "StrafeSpeed": 0.6
+        "StrafeSpeed": 0.6,
+        "Tags": {
+          "CVSR",
+          "Assassin",
+          "Roomba"
+        }
       },
       "AssaultCrab": {
         "DisplayName": "Assault Crab",
@@ -315,7 +358,12 @@
         "DashSpeed": 0,
         "RunSpeed": 0.5,
         "WalkSpeed": 0.3,
-        "StrafeSpeed": 3
+        "StrafeSpeed": 3,
+        "Tags": {
+          "CVSR",
+          "Assault",
+          "Crab"
+        }
       },
       "TankCrab": {
         "DisplayName": "Tank Crab",
@@ -342,7 +390,12 @@
         "DashSpeed": 0,
         "RunSpeed": 0.4,
         "WalkSpeed": 0.3,
-        "StrafeSpeed": 3
+        "StrafeSpeed": 3,
+        "Tags": {
+          "CVSR",
+          "Tank",
+          "Crab"
+        }
       },
       "AssassinCrab": {
         "DisplayName": "Assassin Crab",
@@ -369,7 +422,13 @@
         "DashSpeed": 0,
         "RunSpeed": 0.8,
         "WalkSpeed": 0.6,
-        "StrafeSpeed": 6
+        "StrafeSpeed": 6,
+        "Tags": {
+          "CVSR",
+          "Assassin",
+          "Crab"
+        }
+      },
       }
     },
     "Destiny": {
@@ -399,6 +458,10 @@
         "RunSpeed": 5,
         "WalkSpeed": 3,
         "StrafeSpeed": 3
+        "Tags": {
+          "Destiny",
+          "Assault"
+        }
       },
       "Heavy": {
         "DisplayName": "Heavy",
@@ -426,6 +489,10 @@
         "RunSpeed": 4,
         "WalkSpeed": 3,
         "StrafeSpeed": 3
+        "Tags": {
+          "Destiny",
+          "Tank"
+        }
       },
       "Light": {
         "DisplayName": "Light",
@@ -453,6 +520,10 @@
         "RunSpeed": 8,
         "WalkSpeed": 6,
         "StrafeSpeed": 6
+        "Tags": {
+          "Destiny",
+          "Assassin"
+        }
       }
     }
   }
