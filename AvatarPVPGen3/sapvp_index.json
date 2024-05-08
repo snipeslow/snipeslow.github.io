@@ -1,0 +1,23 @@
+{
+  "name": "Snipeslow's Avatar PVP SDK Listing",
+  "author": "Snipeslow",
+  "url": "https://snipeslow.github.io/AvatarPVPGen3/PVPDatabase.json/sapvp_index.json",
+  "id": "com.snipeslow.sapvp.listing",
+  "packages": {
+    "com.snipeslow.sapvp": {
+      "versions": {
+        "0.2.13": {
+          "name": "com.snipeslow.sapvp",
+          "displayName": "Snipeslow's Avatar PVP SDK",
+          "version": "0.2.13",
+          "unity": "2019.4",
+          "description": "Simple Package for testing Automation",
+          "author": {
+            "name": "Snipeslow",
+          },
+          "vrchatVersion": "2022.1.1",
+        }
+      }
+    }
+  }
+}
