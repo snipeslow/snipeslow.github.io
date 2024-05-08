@@ -21,16 +21,17 @@
     },
     "com.snipeslow.sdk.combatlink": {
       "versions": {
-        "0.2.13": {
+        "0.5.1": {
           "name": "com.snipeslow.sdk.combatlink",
           "displayName": "Snipeslow's CombatLink SDK",
-          "version": "0.2.13",
+          "version": "0.5.1",
           "unity": "2019.4",
           "description": "For VRChat game world creators",
           "author": {
             "name": "Snipeslow",
           },
           "vrchatVersion": "2022.1.1",
+          "url": "https://github.com/snipeslow/Combat-Link/releases/download/0.5.1-alpha/exported-com.snipeslow.combatlink-0.5.1.unitypackage"
         }
       }
     }
