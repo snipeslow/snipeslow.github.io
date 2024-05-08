@@ -1,0 +1,38 @@
+{
+  "name": "Snipeslow's SDK Tools Listing",
+  "author": "Snipeslow",
+  "url": "https://snipeslow.github.io/VRChat/index.json",
+  "id": "com.snipeslow.sdk.listing",
+  "packages": {
+    "com.snipeslow.sdk.sapvp": {
+      "versions": {
+        "0.2.13": {
+          "name": "com.snipeslow.sdk.sapvp",
+          "displayName": "Snipeslow's Avatar PVP SDK",
+          "version": "0.2.13",
+          "unity": "2019.4",
+          "description": "For the VRChat Avatar PVP Community",
+          "author": {
+            "name": "Snipeslow",
+          },
+          "vrchatVersion": "2022.1.1",
+        }
+      }
+    },
+    "com.snipeslow.sdk.combatlink": {
+      "versions": {
+        "0.2.13": {
+          "name": "com.snipeslow.sdk.combatlink",
+          "displayName": "Snipeslow's CombatLink SDK",
+          "version": "0.2.13",
+          "unity": "2019.4",
+          "description": "For VRChat game world creators",
+          "author": {
+            "name": "Snipeslow",
+          },
+          "vrchatVersion": "2022.1.1",
+        }
+      }
+    }
+  }
+}
