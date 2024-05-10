@@ -5,9 +5,9 @@
   "id": "com.snipeslow.sdk.listing",
     "packages":[
         {
-            "name":"com.snipeslow.combatlink",
+            "name":"com.snipeslow.sdk.combatlink",
             "releases":[
-                "https://github.com/snipeslow/Combat-Link-VCC-SDK/releases/download/0.5.2-alpha/combat.snipeslow.combatlink_0.5.2-alpha.zip"
+                "https://github.com/snipeslow/Combat-Link-VCC-SDK/releases/download/0.5.2-alpha/com.snipeslow.sdk.combatlink-0.5.2-alpha.zip"
             ]
         }
     ]
