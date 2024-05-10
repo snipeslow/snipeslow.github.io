@@ -1,14 +1,14 @@
 {
     "name":"Snipeslow's SDK Tools Listing",
     "id":"com.snipeslow.sdk.listing",
-    "url":"http://github.com/snipeslow/snipeslow.github.io/VRChat/index.json",
+    "url":"https://snipeslow.github.io/VRChat/index.json",
     "author":{
         "email":"snipeslow.prefabs@gmail.com",
         "name":"Snipeslow"
     },
     "description":"Systems and prefabs by snipeslow",
     "infoLink":{
-        "url":"http://github.com/snipeslow/snipeslow.github.io",
+        "url":"https://github.com/snipeslow/snipeslow.github.io",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
