@@ -16,6 +16,19 @@
             "url": "https://github.com/snipeslow/Combat-Link-VCC-SDK/releases/download/0.5.2/com.snipeslow.sdk.combatlink-0.5.2.zip",
           }
         }
+      },
+      "com.snipeslow.sdk.avatarpvp": {
+        "versions": {
+          "0.1.0": {
+            "name" : "com.snipeslow.sdk.avatarpvp",
+            "displayName" : "Avatar PVP",
+            "version" : "0.1.0",
+            "unity" : "2018.4",
+            "description" : "A world and avatar system to allow combat with your avatar!.",
+            "hideInEditor": false,
+            "url": "https://github.com/snipeslow/Avatar-PVP-VCC-SDK/releases/download/0.1.0/com.snipeslow.sdk.avatarpvp-0.1.0.zip",
+          }
+        }
       }
     }
   }
