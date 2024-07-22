@@ -107,6 +107,36 @@
         "Tags": {
           "Default",
           "Assassin"
+        },
+      "GoFluffYaself": {
+        "DisplayName": "GoFluffYaself",
+        "ChestDMG": 5000,
+        "ChestDMGShieldRatio": 0.01,
+        "HeadDMG": 20000,
+        "HeadDMGShieldRatio": 0.01,
+        "DOTDMG": 200,
+        "DOTEffectRatio": 0.8,
+        "HOTAmount": 250,
+        "ElectricDMG": 100,
+        "FireDMG": 300,
+        "PoisonDMG": 25,
+        "IceDMG": 80,
+        "IceEffectRatio": 0.4,
+        "StunEffectRatio": 4.0,
+        "SlowEffectRatio": 8.0,
+        "SpeedEffectRatio": .1,
+        "RepairAmount": -175,
+        "RadRate": 2.5,
+        "PushPower": 32,
+        "JumpSpeed": 8,
+        "DoubleJumpSpeed": 4,
+        "DashSpeed": 3,
+        "RunSpeed": 8,
+        "WalkSpeed": 6,
+        "StrafeSpeed": 6,
+        "Tags": {
+          "Default",
+          "GoFluffYaself"
         }
       }
     },
